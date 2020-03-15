@@ -1,5 +1,9 @@
 # Reason Native Boilerplate
 
+## Why?
+
+This is just a repo for a friend of mine
+
 ## Install
 
 ```shell

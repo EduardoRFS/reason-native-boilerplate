@@ -4,7 +4,7 @@
   "description": "My Project",
   "esy": {
     "build": "dune build -p <PACKAGE_NAME>",
-    "buildDev": "pesy",
+    "buildDev": "dune build @all",
     "release": {
       "releasedBinaries": [
         "ReasonNativeBoilerplateApp.exe"
